@@ -1,0 +1,3 @@
+0: All's well that ends well.
+1: Bad news travels fast.
+2: Well begun is half done.
